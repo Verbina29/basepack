@@ -1,13 +1,13 @@
 name = "Basepack"
-author = "Verbina29"
-version = "1.0.0"
+author = "verbina29"
+version = "1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "40827c733c248a23f3a8bae994a2fe613970617aa9aade02376de0829d70e08c"
+hash = "6bdfb4e316a1cd46aada2807d792cb6985096684dca1b32438d91bfd0d770021"
 
 [versions]
-fabric = "0.15.11"
+fabric = "0.16.2"
 minecraft = "1.19.2"

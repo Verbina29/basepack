@@ -18,7 +18,7 @@ hash = "48482a2e31721b19525af30af6d6435d789cf8f57ba5d102d30adf181c9bedda"
 
 [[files]]
 file = "mods/advanced-backups.pw.toml"
-hash = "f24c286a21eb99939bb91be42beebb6c52aba8c6f1156a5facea23ff96774e71"
+hash = "aba6abc47bc805eef8a9ddc2a2593e54c8f8d27c3d8633236afed0006a28b11a"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "43f851bd4c2818a8cf5d48be3a6bcbbd8ce9743f41a629c71fe3737ca93b2b53"
+hash = "73611b6dfb1597c51d0f7c144f0be06862108f3c3668929f932dd6798a60d953"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "706924659dac92dc50b584b1ecf8f90ba628ede1e029d8642ca4aaec4d9eb3d5"
+hash = "cd4053b09d3d53c0f0729dabaf756d8f813ff52816c9a0d26d9184c83fb67bed"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "01ddcaeb877ac678f725d028bb39e97cb6af23c8a77302c797b60ccf2b6faec8"
+hash = "df6ce80ccac71e400be0dfccb4dc10164d295a22c5a85eb0bd60ce684b547cdd"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "7fffcce3f4ed60a994d0acc0c18ebcf87fa10778a13913ba23340847acbea581"
+hash = "b9cecc6ff76dd5cbb45553fb65122fddb16e68f081b5483d72f319c4930b3a93"
 metafile = true
 
 [[files]]
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9cf270ff7a0bda4769db11197f43698ebc105e81870d6e7f6b9979c1dbd38ae9"
+hash = "36be6dae896dc594e09d1d34826be0ae204f60f56da300c3517f94e87fa84af5"
 metafile = true
 
 [[files]]
 file = "mods/jline4mcdsrv.pw.toml"
-hash = "df1f66f500c693e7c17eb46c282abaad211401dae80c2a8e881ec6d2a328f12d"
+hash = "58567b23252ec837faa0d3ab12c85b0315b6e3101da0337631d7f49893b962f4"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "c69bc6695df349f98155a021995f3f3602f7ef2cbad326929a46b7d80db32d92"
+hash = "e68fe3fc2dd0464b10f7e03c3b2cfcd64fa0701dbfa43593e06d358515ca4579"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-shadowy-path-blocks.pw.toml"
-hash = "71164245f9e06a916689d4683bd15dec40effbb1a748e353318c243bbee4924e"
+hash = "70c0efbdfa18c5fbe7cc613e258d3f42e5ff276cc301c4109bf511898177d49b"
 metafile = true
 
 [[files]]
@@ -343,12 +343,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "870cb5e6bdc46fe6731b13e62da401dd2a2ea8dd6d8ed1f442a461166c34784c"
+hash = "69d00de2ce5f0d2d19c3a16458317b8072c64ca1f7b2ee0a51ac104e86e5957f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "47d45a19d3321034ac9e206dd85771c8066cfb910db68387e3937bf1ab04ae6d"
+hash = "41af69fa69416026d2e1099a42f66d97cfb42786f689408e518b0134433446cf"
 metafile = true
 
 [[files]]
