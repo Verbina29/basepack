@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
-hash = "b9cecc6ff76dd5cbb45553fb65122fddb16e68f081b5483d72f319c4930b3a93"
+hash = "f3014bb71b020a70a484ccee1b47cd886782c4b30689510e577ebf2eb7e1b37b"
 metafile = true
 
 [[files]]
@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "69d00de2ce5f0d2d19c3a16458317b8072c64ca1f7b2ee0a51ac104e86e5957f"
+hash = "120f8f5091bd89adec8e737af383944d727a2f3648794271d05d3190ec020109"
 metafile = true
 
 [[files]]
