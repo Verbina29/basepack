@@ -272,11 +272,6 @@ hash = "0c55ad0b20049461cd1dc2972f9f4bf0070553ed295b9320c8391beaec5b0474"
 metafile = true
 
 [[files]]
-file = "mods/nerb.pw.toml"
-hash = "b13ff58ccfb7902597e9cf8b9b9674f1ff6080b8eb6cd47f53334e1f0fccb38d"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
